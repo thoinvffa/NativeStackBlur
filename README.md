@@ -21,7 +21,7 @@ allprojects {
 Then, add the library to your project `build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.Commit451:NativeStackBlur:1.0.5'
+    implementation 'com.github.thoinvffa:NativeStackBlur:1.0.5'
 }
 ```
 
